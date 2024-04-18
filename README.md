@@ -1,5 +1,5 @@
 # Fromix
-# <img src="wave.gif" width="25"/> Hi there 
+# <img src="wave.gif" width="35"/> Hi there 
 
 <div id="header" align="center">
   
