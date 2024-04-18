@@ -5,7 +5,7 @@
   <img src="giphy.gif" width="200" />
   <div id="badges">
   <a class="vk" href="vk.com/fromix13387">
-    <img src="https://img.shields.io/badge/Telegram-icon?style=flat&logo=telegram&labelColor=%234a4a5b&color=%234a4a5b" alt="my vk" />
+    <img src="https://img.shields.io/badge/Telegram-icon?style=flat&logo=telegram&labelColor=%234a4a5b&color=%234a4a5b" alt="my vk" width="250"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
