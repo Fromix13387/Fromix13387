@@ -22,5 +22,5 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a Web Developer from Russia :ru:.
+I am a Web Developer from Russia [1F1F7 1F1FA].
 
