@@ -2,24 +2,20 @@
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
-            h1 {
-                color: red;
-                animation: mymove 2s infinite;
-            }
-			h1:hover {
-				color: blue;
-			}
-
-            @keyframes mymove {
-                from {
-                    color: red;
-                }
-                to {
-                    color: yellow;
-                }
-            }
+				.vk {
+					padding: 15px 45px:
+					background-color: blue;
+				}
             </style>
-            <h1>HELLO WORLD!</h1>
+             <a class="vk" href="vk.com/fromix13387">
+				<img src="vk1.png" alt="my vk" width="50"/>
+			</a>
+			<a href="your-youtube-URL">
+				<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+			</a>
+			<a href="your-twitter-URL">
+				<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+			</a>
         </div>
     </foreignObject>
 </svg>
