@@ -1,6 +1,6 @@
 # Fromix
 # <img src="wave.gif" width="35"/> Hi there 
-
+<link rel="stylesheet" href="style.css">
 <div id="header" align="center" style="border-radius: 50px">
   <img src="giphy.gif" width="200" />
   <div id="badges">
