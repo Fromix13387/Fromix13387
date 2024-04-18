@@ -5,10 +5,10 @@
   <img src="giphy.gif" width="200" />
   <div id="badges">
   <a class="vk" href="vk.com/fromix13387">
-    <img src="https://img.shields.io/badge/Telegram-icon?style=flat&logo=telegram&labelColor=%234a4a5b&color=%234a4a5b" alt="my vk" width="200" height="30"/>
+    <img src="https://img.shields.io/badge/Telegram-icon?style=flat&logo=telegram&labelColor=%234a4a5b&color=%234a4a5b" alt="my vk" width="200" height="50"/>
   </a>
   <a href="https://t.me/fromix13387">
-    <img src="https://img.shields.io/badge/Fromix-icon?style=flat&logo=vk&labelColor=%23337891&color=%23337891" alt="my tg"  width="200" height="30"/>
+    <img src="https://img.shields.io/badge/Fromix-icon?style=flat&logo=vk&labelColor=%23337891&color=%23337891" alt="my tg"  width="200" height="50"/>
   </a>
   
 </div>
