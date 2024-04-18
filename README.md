@@ -55,3 +55,5 @@ I am a Web Developer from Russia <img src="ru.png" height="15"/>.
   <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=fromix13387&show_icons=true&theme=vue" alt="GitHub Streak" /></a> <br>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=fromix13387" alt="GitHub Streak" /></a>
 </div>
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fromix13387)](https://github.com/anuraghazra/github-readme-stats)
