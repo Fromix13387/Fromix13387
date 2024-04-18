@@ -7,12 +7,10 @@
   <a class="vk" href="vk.com/fromix13387">
     <img src="https://img.shields.io/badge/Telegram-icon?style=flat&logo=telegram&labelColor=%234a4a5b&color=%234a4a5b" alt="my vk" width="200"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://t.me/fromix13387">
+    <img src="https://img.shields.io/badge/Fromix-icon?style=flat&logo=vk&labelColor=%23337891&color=%23337891" alt="my tg"  width="200"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  
 </div>
 </div>
 
