@@ -50,7 +50,7 @@ I am a Web Developer from Russia <img src="ru.png" height="15"/>.
 </div>
 
 ### :fire: My Stats :
-<div align="center">
+<div align="left">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=fromix13387&theme=github-light&hide_border=true&border_radius=15" alt="GitHub Streak" /></a> <br>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=fromix13387&show_icons=true&theme=vue" alt="GitHub Streak" /></a> <br>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=fromix13387" alt="GitHub Streak" /></a>
