@@ -50,6 +50,6 @@ I am a Web Developer from Russia <img src="ru.png" height="15"/>.
 </div>
 
 ### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fromix13387&theme=dark&background=000000)](https://git.io/streak-stats)
-
+<div align="center">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fromix13387&theme=dark&hide_border=true&border_radius=15)](https://git.io/streak-stats)
+</div>
