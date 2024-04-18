@@ -1,4 +1,6 @@
 # Fromix
 # Hi there (wave.gif)
 
-<iframe src="https://giphy.com/embed/5K7ngCtszoxxbaBieC" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/HollerStudios-animation-reaction-gif-holler-studios-5K7ngCtszoxxbaBieC">via GIPHY</a></p>
+<div id="header" align="center">
+  <img src="https://giphy.com/embed/5K7ngCtszoxxbaBieC" width="100"/>
+</div>
