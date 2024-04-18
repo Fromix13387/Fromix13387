@@ -51,5 +51,5 @@ I am a Web Developer from Russia <img src="ru.png" height="15"/>.
 
 ### :fire: My Stats :
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=fromix13387&theme=dark&hide_border=true&border_radius=15" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=fromix13387&theme=github-light&hide_border=true&border_radius=15" alt="GitHub Streak" /></a>
 </div>
