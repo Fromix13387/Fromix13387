@@ -4,7 +4,7 @@
 <div id="header" align="center" style="border-radius: 50px">
   <img src="giphy.gif" width="200" />
   <div id="badges">
-  <a href="vk.com/fromix13387">
+  <a class="vk" href="vk.com/fromix13387">
     <img src="vk1.png" alt="my vk" width="50"/>
   </a>
   <a href="your-youtube-URL">
