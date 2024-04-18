@@ -22,5 +22,5 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a Web Developer from Russia <img src="ru.png" width="35"/>.
+I am a Web Developer from Russia <img src="ru.png" height="15"/>.
 
