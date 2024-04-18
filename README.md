@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=fromix13387&style=flat-square&color=blue" alt=""  height="25"/>
     <br>
     
-  # <img src="wave.gif" width="35"/> Hi there
+  # <img src="wave.gif" width="35"/> Hi World
   </div>
 </div>
 
