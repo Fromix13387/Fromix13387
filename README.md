@@ -27,8 +27,8 @@ I am a Web Developer from Russia <img src="ru.png" height="15"/>.
 - :telescope: I'm studying to be a web developer and am creating web applications, mainly spa sites and bots for VK and telegram on nodejs.
 
 - :thumbsup: The main work is coursework and website layout for the sale of sushi.
-- 1) https://github.com/Fromix13387/marketVue
-- 2) https://github.com/Fromix13387/sushi-site
+   1) https://github.com/Fromix13387/marketVue
+   2) https://github.com/Fromix13387/sushi-site
 
 - :zap: In my free time, I read various articles on development, news in the IT field and watch TV series :smiley:.
 
