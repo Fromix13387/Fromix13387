@@ -5,7 +5,7 @@
   <img src="giphy.gif" width="200" />
   <div id="badges">
   <a href="vk.com/fromix13387">
-    <img src="vk.png" alt="LinkedIn Badge"/>
+    <img src="vk1.png" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
