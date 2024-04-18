@@ -24,11 +24,11 @@
 ### :woman_technologist: About Me :
 I am a Web Developer from Russia <img src="ru.png" height="15"/>.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I'm studying to be a web developer and am creating web applications, mainly spa sites and bots for VK and telegram on nodejs.
 
-- :seedling: Exploring Technical Content Writing.
+- :thumbsup: The main work is coursework and website layout for the sale of sushi.
+- 1) https://github.com/Fromix13387/marketVue
+- 2) https://github.com/Fromix13387/sushi-site
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :zap: In my free time, I read various articles on development, news in the IT field and watch TV series :smiley:.
 
