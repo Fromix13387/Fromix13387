@@ -24,7 +24,7 @@
 ### :woman_technologist: About Me :
 I am a Web Developer from Russia <img src="ru.png" height="15"/>.
 
-- :telescope: I'm studying to be a web developer and am creating web applications, mainly spa sites and bots for VK and telegram on nodejs.
+- :telescope: I'm studying to be a web developer and am creating web applications, mainly spa sites, bots for VK and telegram on nodejs.
 
 - :thumbsup: The main work is coursework and website layout for the sale of sushi.
    1) https://github.com/Fromix13387/marketVue
