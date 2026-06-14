@@ -1,7 +1,7 @@
 
 <link rel="stylesheet" href="style.css">
 <div id="header" align="center" style="border-radius: 50px">
-  <img src="giphy.gif" width="200"  height="200"/>
+  <!-- <img src="giphy.gif" width="200"  height="200"/> -->
   <img src="giphy2.gif" width="200" height="200" />
   <div id="badges">
     <a href="https://t.me/fromix13387">
